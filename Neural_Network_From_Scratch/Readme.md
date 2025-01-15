@@ -18,7 +18,7 @@ This project implements a flexible multilayer neural network from scratch using 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neural-network-implementation.git
+git clone https://github.com/KartikeySapkal/neural-network-implementation.git
 cd neural-network-implementation
 ```
 
