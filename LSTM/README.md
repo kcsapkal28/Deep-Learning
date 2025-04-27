@@ -25,16 +25,16 @@ Long Short-Term Memory (LSTM) networks are a type of Recurrent Neural Network (R
 
 The repository contains the following Jupyter notebooks:
 
-1. **[Demand_Forecasting_in_Supply_Chain_Management.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Demand_Forecasting_in_Supply_Chain_Management.ipynb)**  
+1. ** [Demand_Forecasting_in_Supply_Chain_Management.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Demand_Forecasting_in_Supply_Chain_Management.ipynb)**  
    Implements an LSTM model to predict product demand in a supply chain context, aiding in inventory management and logistics planning.
 
-2. **[LSTM.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/LSTM.ipynb)**  
+2. ** [LSTM.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/LSTM.ipynb)**  
    Serves as an introductory notebook demonstrating the basics of LSTM networks, including their architecture and a simple implementation.
 
-3. **[Lab_Assignment_LSTM_5_2.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Lab_Assignment_LSTM_5_2.ipynb)**  
+3. ** [Lab_Assignment_LSTM_5_2.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Lab_Assignment_LSTM_5_2.ipynb)**  
    A lab assignment focused on applying LSTM models to a specific dataset, emphasizing hands-on experience with model training and evaluation.
 
-4. **[Sentiment_Analysis_using_LSTM_5_3.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Sentiment_Analysis_using_LSTM_5_3.ipynb)**  
+4. ** [Sentiment_Analysis_using_LSTM_5_3.ipynb](https://github.com/kcsapkal28/Deep-Learning/blob/main/LSTM/Sentiment_Analysis_using_LSTM_5_3.ipynb)**  
    Utilizes LSTM networks for sentiment analysis on textual data, showcasing preprocessing steps and model performance metrics.
 
 ---
@@ -43,19 +43,19 @@ The repository contains the following Jupyter notebooks:
 
 To explore the notebooks:
 
-1. **Clone the repository:**
+1. ** Clone the repository:**
    ```bash
    git clone https://github.com/kcsapkal28/Deep-Learning.git
    cd Deep-Learning/LSTM
    ```
 
-2. **Install dependencies:**
+2. ** Install dependencies:**
    Ensure you have the required Python packages installed:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the notebooks:**
+3. ** Run the notebooks:**
    Open the notebooks using Jupyter Notebook or JupyterLab:
    ```bash
    jupyter notebook
