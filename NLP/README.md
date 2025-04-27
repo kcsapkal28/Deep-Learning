@@ -73,9 +73,4 @@ pip install numpy pandas matplotlib tensorflow keras
 - **Additional Resources:**  
   - Hochreiter, S., & Schmidhuber, J. (1997). *Long Short-Term Memory*. Neural Computation.  
   - Chollet, F. (2018). *Deep Learning with Python*. Manning Publications.
-
----
-
-## License
-This assignment is for academic purposes only. All rights reserved to the respective authors.
 ```
